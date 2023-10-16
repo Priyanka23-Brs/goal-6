@@ -3,4 +3,9 @@
 ###### Purpose:
     To create a simple Portfolio on web.
 
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/design/portfolio).
+#### Dear Students, Check out the live app [here](# Portfolio
+
+###### Purpose:
+    To create a simple Portfolio on web.
+
+#### Dear Students, Check out the live app [here](file:///C:/Users/priya/OneDrive/Desktop/BRS-Nyros/goal6/index.html).
